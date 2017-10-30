@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Uda PopMovie</string>
+    <string name="pop_sort">Popular</string>
+    <string name="rating_sort">Rating</string>
+</resources>
